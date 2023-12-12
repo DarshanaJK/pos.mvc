@@ -14,7 +14,7 @@ import java.util.List;
 import pos.mvc.db.DbConnection;
 
 /**
- *
+
  * @author User
  */
 public class CustomerController {
